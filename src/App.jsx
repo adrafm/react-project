@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import Temp from './components/Temp';
+import Temp from './components/Temperature';
 
 function App() {
   return (
     <>
-      <div></div>
+      <Temp/>
     </>
   );
 }
